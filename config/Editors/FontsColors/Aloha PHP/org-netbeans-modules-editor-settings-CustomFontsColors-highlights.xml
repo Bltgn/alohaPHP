@@ -5,7 +5,7 @@
     <fontcolor foreColor="lightGray" name="caret-color-insert-mode"/>
     <fontcolor bgColor="black" name="block-search"/>
     <fontcolor foreColor="ff253e5a" name="text-limit-line-color"/>
-    <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>
+    <fontcolor name="readonly-files"/>
     <fontcolor bgColor="gray" name="nbeditor-bracesMatching-match-multichar"/>
     <fontcolor foreColor="yellow" name="line-number"/>
     <fontcolor foreColor="ff5098e0" name="hyperlinks" underline="blue"/>

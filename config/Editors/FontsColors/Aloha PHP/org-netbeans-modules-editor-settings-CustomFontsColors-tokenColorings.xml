@@ -11,7 +11,7 @@
     <fontcolor name="url" underline="cyan"/>
     <fontcolor default="identifier" name="field"/>
     <fontcolor bgColor="ff2b2b2b" foreColor="ffe2f0f4" name="default">
-        <font name="Ubuntu Mono" size="16"/>
+        <font name="Liberation Mono" size="14"/>
     </fontcolor>
     <fontcolor foreColor="ff9cce6b" name="string"/>
     <fontcolor default="default" name="entity-reference"/>
