@@ -1,6 +1,6 @@
 alohaPHP
 ========
-A dark color theme for Netbeans 7.2 updated for PHP
+A dark color theme for Netbeans 7.4 updated for PHP5
 
 AlohaPHP is a modified version of the Aloha color theme by Mike McKinney.
 This theme featured a good contrast of warm colors, easing the readability of code. Unfortunately
