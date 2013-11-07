@@ -9,7 +9,8 @@
         <attr name="Spellcheckers\PHP\Hidden" boolvalue="false"/>
         <attr name="Spellcheckers\Plain\Hidden" boolvalue="false"/>
         <attr name="Spellcheckers\Properties\Hidden" boolvalue="false"/>
-        <attr name="Spellcheckers\XHTML\Hidden" boolvalue="true"/>
+        <attr name="Spellcheckers\XHTML\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\XML\Hidden" boolvalue="false"/>
     </fileobject>
     <fileobject name="Editors">
         <attr name="currentFontColorProfile" stringvalue="Aloha PHP"/>
