@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE type PUBLIC "-//NetBeans//DTD annotation type 1.0//EN" "http://www.netbeans.org/dtds/annotation-type-1_0.dtd">
-<type browseable="false" glyph="nbresloc:/de/foopara/phpcsmd/resources/phpmd/violation.png" highlight="0xffc0ff" inherit_foreground_color="true" name="de-foopara-phpcsmd-annotation-phpmd-violation" priority="0" severity="none" type="line" use_custom_sidebar_color="false" use_highlight_color="true" use_wave_underline_color="false" visible="true"/>

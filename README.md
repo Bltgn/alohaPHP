@@ -1,6 +1,6 @@
 alohaPHP
 ========
-A dark color theme for Netbeans 7.4 updated for PHP5
+A dark color theme for Netbeans 8.0 updated for PHP5
 
 AlohaPHP is a modified version of the Aloha color theme by Mike McKinney.
 This theme featured a good contrast of warm colors, easing the readability of code. Unfortunately
@@ -13,9 +13,10 @@ as well as various elements of the PHP 5.4 syntax.
 
 Installation
 ------------
-* Download this repo as a ZIP archive
-* In netbeans open the options window and import the settings archive
-* A new theme "Aloha PHP" will be available in the "Fonts and color tab"
+* Download this repo as a ZIP archive.
+* Delete the README.md file from the archive.
+* In netbeans open the options window and import the settings archive.
+* A new theme "Aloha PHP" will be available in the "Fonts and color tab".
 
 Please note that this will overwrite your annotation colors.
 If you wish to keep them :
@@ -30,3 +31,4 @@ Original Aloha theme by Mike McKinney - http://blog.huikau.com
 
 If you have an issue using this color please send me a mail :
 contact@devduweb.com
+
